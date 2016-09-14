@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (glGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\include\learnopengl\shader.h(63): warning C4101: 'infoLog' : variable locale non référencée
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\include\learnopengl\shader.h(62): warning C4101: 'success' : variable locale non référencée
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\include\learnopengl\mesh.h(89): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+  glEngine.cpp
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\include\learnopengl\shader.h(63): warning C4101: 'infoLog' : variable locale non référencée
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\include\learnopengl\shader.h(62): warning C4101: 'success' : variable locale non référencée
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\include\learnopengl\mesh.h(89): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(120): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(154): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(155): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(227): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(234): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(235): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(239): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(240): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(242): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\michael\documents\visual studio 2015\projects\glengine\glengine\glengine.cpp(243): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+  Génération de code en cours...
+  glEngine.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\x64\Debug\glEngine.exe
+  glEngine.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\x64\Debug\glEngine.pdb (Partial PDB)

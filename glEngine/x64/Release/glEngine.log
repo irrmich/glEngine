@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (glGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glEngine.cpp
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\glEngine\include\learnopengl/shader.h(63): warning C4101: 'infoLog' : variable locale non référencée
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\glEngine\include\learnopengl/shader.h(62): warning C4101: 'success' : variable locale non référencée
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\glEngine\include\learnopengl/mesh.h(91): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+glEngine.cpp(120): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
+glEngine.cpp(154): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+glEngine.cpp(155): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+glEngine.cpp(227): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+glEngine.cpp(234): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+glEngine.cpp(235): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+glEngine.cpp(239): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
+glEngine.cpp(240): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
+glEngine.cpp(242): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+glEngine.cpp(243): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+  main.cpp
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\glEngine\include\learnopengl/shader.h(63): warning C4101: 'infoLog' : variable locale non référencée
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\glEngine\include\learnopengl/shader.h(62): warning C4101: 'success' : variable locale non référencée
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\glEngine\include\learnopengl/mesh.h(91): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'LIBCMT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+  Génération de code en cours
+  28 of 870 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  glEngine.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\x64\Release\glEngine.exe
+  glEngine.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2015\Projects\glEngine\x64\Release\glEngine.pdb (Full PDB)

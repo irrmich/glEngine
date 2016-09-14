@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\michael\documents\visual studio 2015\projects\glgame\glgame\include\learnopengl\shader.h(63): warning C4101: 'infoLog' : variable locale non référencée
+c:\users\michael\documents\visual studio 2015\projects\glgame\glgame\include\learnopengl\shader.h(62): warning C4101: 'success' : variable locale non référencée
+c:\users\michael\documents\visual studio 2015\projects\glgame\glgame\include\learnopengl\mesh.h(88): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY' : redéfinition de macro
+  c:\users\michael\documents\visual studio 2015\projects\glgame\glgame\include\glfw\glfw3.h(98): note: voir la définition précédente de 'APIENTRY'
+  glGame.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2015\Projects\glGame\x64\Debug\glGame.exe
+  glGame.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2015\Projects\glGame\x64\Debug\glGame.pdb (Partial PDB)
